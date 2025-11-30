@@ -45,3 +45,16 @@ Thumbs.db
 
 # Log files
 *.log
+# Data files
+*.csv
+*.json
+data/
+
+# Python
+__pycache__/
+*.pyc
+.env
+  
+# OS files
+.DS_Store
+Thumbs.db
