@@ -1,3 +1,50 @@
+# Virtual environment
+venv/
+env/
+.venv/
+
+# Data files
+*.csv
+*.json
+*.pkl
+data/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+
+# Visualization files
+*.png
+*.jpg
+*.jpeg
+*.gif
+
+# Large files
+*.lib
+*.dll
+*.pth
+*.bin
+*.h5
+
+# IDE files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Jupyter notebooks
+*.ipynb
+.ipynb_checkpoints/
+
+# Log files
+*.log
 # Data files
 *.csv
 *.json
