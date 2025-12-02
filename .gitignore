@@ -24,6 +24,19 @@ __pycache__/
 *.pyd
 .Python
 
+# Visualization files
+*.png
+*.jpg
+*.jpeg
+*.gif
+
+# Large files
+*.lib
+*.dll
+*.pth
+*.bin
+*.h5
+
 # IDE files
 .vscode/
 .idea/
@@ -45,3 +58,22 @@ Thumbs.db
 *.pth
 *.h5
 *.bin
+# Jupyter notebooks
+*.ipynb
+.ipynb_checkpoints/
+
+# Log files
+*.log
+# Data files
+*.csv
+*.json
+data/
+
+# Python
+__pycache__/
+*.pyc
+.env
+  
+# OS files
+.DS_Store
+Thumbs.db
