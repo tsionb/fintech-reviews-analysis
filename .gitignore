@@ -8,6 +8,14 @@ env/
 *.json
 *.pkl
 data/
+*.xlsx
+
+# Visualization files
+*.png
+*.jpg
+*.jpeg
+*.gif
+*.html
 
 # Python cache
 __pycache__/
@@ -39,6 +47,17 @@ __pycache__/
 .DS_Store
 Thumbs.db
 
+# Report files
+*.txt
+*.md
+*.pdf
+
+# Large files
+*.lib
+*.dll
+*.pth
+*.h5
+*.bin
 # Jupyter notebooks
 *.ipynb
 .ipynb_checkpoints/
