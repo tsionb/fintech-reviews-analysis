@@ -1,0 +1,47 @@
+# Virtual environment
+venv/
+env/
+.venv/
+
+# Data files
+*.csv
+*.json
+*.pkl
+data/
+*.xlsx
+
+# Visualization files
+*.png
+*.jpg
+*.jpeg
+*.gif
+*.html
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+
+# IDE files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Report files
+*.txt
+*.md
+*.pdf
+
+# Large files
+*.lib
+*.dll
+*.pth
+*.h5
+*.bin
