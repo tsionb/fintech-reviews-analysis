@@ -1,3 +1,4 @@
+# Fintech App Reviews Analysis
 
 ## Task 1: Data Collection and Preprocessing
 
@@ -48,7 +49,7 @@
 - `reviews_with_sentiment.csv` - Reviews with sentiment labels and scores
 - `sentiment_analysis.png` - Sentiment distribution visualization
 - `keyword_analysis.png` - Top keywords by bank visualization
-# Fintech App Reviews Analysis
+
 
 
 ## Task 3: PostgreSQL Database Implementation
